@@ -1,7 +1,9 @@
-# Scikit_Learn
+# Machine_Learning
 이곳은 부산대학교 K-Digital 3기 훈련생 최호진이 머신러닝을 공부하면서 만든 작업물을 게시하는 곳입니다.
+해당 작업물은 Scikit-Learn에 의해 제작되었습니다.
 
 This is a place where Choi Ho-jin, a 3rd-term K-Digital trainee at Pusan National University, uploads his work while studying Machine Learning.
+These tasks are produced by Scikit-Learn.
 
 
 ## Textbook
