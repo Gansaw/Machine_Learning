@@ -44,7 +44,7 @@ Before operating program, you need to accomplish the following step.
 + [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download/?section=windows) (2022.2.1 ver)
 
 
-## Library/Package
+### Library/Package
 + numpy
 + scipy
 + scikit-learn
@@ -56,3 +56,8 @@ Before operating program, you need to accomplish the following step.
 + graphviz
 + ntlk
 + spacy
+
+### License
+이 프로젝트는 MIT 라이선스가 적용되고 있습니다. 세부사항은 LICENSE.md를 참고하세요.
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
