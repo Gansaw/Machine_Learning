@@ -8,6 +8,7 @@ These tasks are produced by Scikit-Learn.
 
 ## Textbook
 Introduction to Machine Learning with Python edition 2nd <br/>
+
 파이썬 라이브러리를 활용한 머신러닝 번역개정 2판
 
 
