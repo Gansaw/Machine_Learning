@@ -38,8 +38,6 @@ Before operating program, you need to accomplish the following step.
 
     ＊ &nbsp;&nbsp; require google account
   
-    ＊ &nbsp;&nbsp; do not need to install
-  
 
 ### Not required but recommended
 + [D2 Coding Font](https://github.com/naver/d2codingfont)
