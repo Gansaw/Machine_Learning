@@ -6,15 +6,6 @@ This is a place where Choi Ho-jin, a 3rd-term K-Digital trainee at Pusan Nationa
 These tasks are produced by Scikit-Learn.
 
 
-## Textbook
-Introduction to Machine Learning with Python edition 2nd <br/>
-
-파이썬 라이브러리를 활용한 머신러닝 번역개정 2판
-
-
-![cover](https://github.com/Gansaw/Machine_Learning/assets/86204430/2ca82d24-dafc-40fa-ab32-9f88ebe0f150)
-
-
 ## Getting Started
 정상적으로 프로그램을 동작하게 하기 위해서는 다음과 같은 과정을 거쳐야 합니다.
 
